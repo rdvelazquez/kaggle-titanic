@@ -1,2 +1,4 @@
-# kaggle-titanic
-modular solution to the Titanic survival problem
+M# kaggle-titanic
+Modular solution to the Titanic survival problem
+
+https://www.kaggle.com/c/titanic
